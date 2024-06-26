@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.circle{
+    margin-top: -25%;
+}
+.circle1{
+    margin-top: -35%;
+}
+.circle2{
+    margin-top: -25%;
+}
+.carousel-bg{
+    background-size: cover;
+    filter: blur(8px);
+}
+
+.imgBCP1{
+    margin-top: -50%;
+    margin-left: 45%;
+}
+
+
